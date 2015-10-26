@@ -1,0 +1,3 @@
+steps:
+  - name: Foo
+    command: echo Foo!
