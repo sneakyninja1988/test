@@ -1,3 +1,5 @@
 steps:
+  - name: Install cowsay
+    command: sudo apt-get update; sudo apt-get install cowsay
   - name: Cowsay
     command: cowsay Hi!
